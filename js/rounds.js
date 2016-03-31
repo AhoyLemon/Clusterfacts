@@ -359,4 +359,856 @@ var rounds = [
       }
     ]
   },
+  {
+    "title": "More Cigarettes",
+    "category": "cigarettes",
+    "written": "2010-04-21",
+    "tags": "cigarettes, history, advertising",
+    "questions": [
+      {
+        "Q": "This popular brand of cigarettes was originally marketed to ladies. The filter was colored red, so as not to interfere with ladies' lipstick.",
+        "A": "Marlboro"
+      },
+      {
+        "Q": "Which of the following is not a cigarette additive: Apple Juice, Caffeine, Rum or Vanilla",
+        "A": "vanilla"
+      },
+      {
+        "Q": "This first lady declared the White House to be smoke free, and banned cigarette smoking in any of its rooms.",
+        "A": "Hillary Clinton"
+      },
+      {
+        "Q": "The Flintstones were Winston spokespeople in the 60's. What is it Wilma did to get them to switch sponsors?",
+        "A": "Got pregnant"
+      },
+      {
+        "Q": "A 1950's campaign advertised that more doctors smoked this brand of cigarette than any other.",
+        "A": "Camel"
+      },
+      {
+        "Q": "On the bottom of a pack of Lucky Strikes, it says LS/MFT. What does this acronym mean?",
+        "A": "Lucky Strike Means Fine Tobacco"
+      },
+      {
+        "Q": "This president signed the law which put the surgeon general's warning on packs, and banned cigarette TV ads.",
+        "A": "Richard Nixon"
+      },
+      {
+        "Q": "Which continent has the highest population of smokers per capita?",
+        "A": "Asia (60% of men, 8% of women)"
+      },
+      {
+        "Q": "Kentucky has the most smokers per capita with 29%. Which state has the fewest?",
+        "A": "Utah (11.5%)"
+      }
+    ]
+  },
+  {
+    "title": "Make A Word With The State Abbreviations Of These Cities",
+    "category": "geography",
+    "written": "2010-04-21",
+    "tags": "cities, geography, wordplay",
+    "questions": [
+      {
+        "Q": "Boston, Buffalo",
+        "A": "MANY"
+      },
+      {
+        "Q": "Colorado, Denver",
+        "A": "COIL"
+      },
+      {
+        "Q": "Pittsburgh, Hartford",
+        "A": "PACT"
+      },
+      {
+        "Q": "Boise, Little Rock",
+        "A": "ARID"
+      },
+      {
+        "Q": "New Orleans, Norfolk",
+        "A": "LAVA"
+      },
+      {
+        "Q": "Tuscaloosa, St. Louis, Fargo",
+        "A": "ALMOND"
+      },
+      {
+        "Q": "Montgomery, Eugene, Dover",
+        "A": "ORDEAL"
+      },
+      {
+        "Q": "Philidelphia, Allentown",
+        "A": "PAPA"
+      },
+      {
+        "Q": "Fayetteville, Fresno, Lincoln",
+        "A": "ARCANE"
+      }
+    ]
+  },
+  {
+    "title": "Famous People In Arlen, TX (Seasons 1-4)",
+    "category": "tv",
+    "written": "2010-05-12",
+    "tags": "tv, celebrities, king of the hill, cartoons",
+    "questions": [
+      {
+        "Q": "The third episode of King of the Hill has Hank introducing Bobby to this marijuana smoking country music star.",
+        "A": "Willie Nelson"
+      },
+      {
+        "Q": "Season two features the three members of this “punk” band, whose music has been turned into a Broadway musical.",
+        "A": "Green Day"
+      },
+      {
+        "Q": "In season two, Bobby becomes infatuated with race-based comedian Booda Sack, played by this star of Pootie Tang.",
+        "A": "Chris Rock"
+      },
+      {
+        "Q": "In season three, Bobby makes out with an older girl named Marie, played by this star of The Grudge.",
+        "A": "Sarah Michelle Gellar"
+      },
+      {
+        "Q": "In season three, Luanne falls in love with self-proclaimed entertainment industry insider Rad, played by this Texas-born star of Dazed & Confused.",
+        "A": "Matthew McConauhey"
+      },
+      {
+        "Q": "Season three introduces Hank's mother's friend Delia, played by last Saturday's host of SNL.",
+        "A": "Betty White"
+      },
+      {
+        "Q": "In season four, Hank meets a man named Hal, who is very similar to Hank in personality and appearance. He is played by this libertarian Price is Right host.",
+        "A": "Drew Carey"
+      },
+      {
+        "Q": "Hank's boss has a mistress named Debbie who dies in season four. Debbie is played by this Louisiana actress who was June Carter Cash in Walk The Line.",
+        "A": "Reese Witherspoon"
+      },
+      {
+        "Q": "Luanne moves out of the Hill house and into a house next door. One of her roommates is played by this actor who was once beat up by Jon Lovitz.",
+        "A": "Andy Dick"
+      }
+    ]
+  },
+  {
+    "title": "As Much Research As I'm Willing",
+    "description": "I'm going to present you with some hastily researched facts. You tell me if you think they're true or not.",
+    "category": "binary",
+    "written": "2010-05-12",
+    "tags": "binary, true or false, dis or dat",
+    "questions": [
+      {
+        "Q": "Chewing gum takes seven years to pass through your system.",
+        "A": "false"
+      },
+      {
+        "Q": "Cracking knuckles causes arthritis.",
+        "A": "false"
+      },
+      {
+        "Q": "Fat people are statistically more jolly.",
+        "A": "true"
+      },
+      {
+        "Q": "The tryptophan in turkey makes you sleepy.",
+        "A": "false"
+      },
+      {
+        "Q": "Poppy seed bagels can cause you to fail a drug test.",
+        "A": "true"
+      },
+      {
+        "Q": "Water boiled in a microwave can suddenly explode.",
+        "A": "true"
+      },
+      {
+        "Q": "Humans explode in the vacuum of space.",
+        "A": "false"
+      },
+      {
+        "Q": "A penny dropped from the Empire State Building will kill a pedestrian.",
+        "A": "false"
+      },
+      {
+        "Q": "The size of your ring and index fingers indicate your hormone levels.",
+        "A": "true"
+      }
+    ]
+  },
+  {
+    "title": "Historical Tweets",
+    "description": "I found some tweets from before Twitter was invented. Who wrote them?",
+    "category": "history",
+    "written": "2010-05-19",
+    "tags": "history, twitter",
+    "questions": [
+      {
+        "Q": "ne1 have a better way of saying 87 years? (November 18, 1863)",
+        "A": "Abraham Lincoln"
+      },
+      {
+        "Q": "@sitting_bull Tellin you bro, this battle's gonna be fire!!! (June 23, 1876)",
+        "A": "George Custer"
+      },
+      {
+        "Q": "@watson i said COME HERE (March 10, 1876)",
+        "A": "Alexander Graham Bell"
+      },
+      {
+        "Q": "Backstabbing Senators on the steps. Makes me nervous. (March 14, 44BC)",
+        "A": "Julius Caesar"
+      },
+      {
+        "Q": "Had this dream about black and white children. Pretty great. (June 4, 1960)",
+        "A": "Martin Luther King, Jr"
+      },
+      {
+        "Q": "At dentist. Termites!?!? FML. (August 9, 1791)",
+        "A": "George Washington"
+      },
+      {
+        "Q": "#Sarajevo is beautiful this time of year. And if you're @BLACK_HAND, Sarajevo is code for Pressburg. (June 28, 1914)",
+        "A": "Franz Ferdinand"
+      },
+      {
+        "Q": "Going North every night. This ain't a railroad, just a bunch of houses LOL (September 17, 1849)",
+        "A": "Harriet Tubman"
+      },
+      {
+        "Q": "@TheRealJohnAdams WTF man why did you write so small? Now I look like an asshole. (July 4, 1776)",
+        "A": "true"
+      }
+    ]
+  },
+  {
+    "title": "Chemical Abbreviations",
+    "description": "I have some chemicals, make a word from their chemical Abbreviations. I might have rearranged the letters, BUT I'll even give you a hint.",
+    "category": "science",
+    "written": "2010-05-19",
+    "tags": "science, wordplay, chemistry",
+    "questions": [
+      {
+        "Q": "Cobalt Nickel (Something With A President On It)",
+        "A": "CoiN"
+      },
+      {
+        "Q": "Tantalum Rhenium (Produced by Crying)",
+        "A": "TeaR"
+      },
+      {
+        "Q": "Phosphorus Silicon Sulfur Aftermath of DRINK",
+        "A": "PiSS"
+      },
+      {
+        "Q": "Phosphorus Silicon (To Imbibe Casually)",
+        "A": "SiP"
+      },
+      {
+        "Q": "Aluminum Neon (Harris' First Name)",
+        "A": "NeAl"
+      },
+      {
+        "Q": "Lithium Neon (Found at post office)",
+        "A": "LiNe"
+      },
+      {
+        "Q": "Boron Calcium (Lots of them in New York City)",
+        "A": "CaB"
+      },
+      {
+        "Q": "Helium Argon (Say Twice If You Agree)",
+        "A": "HeAr"
+      },
+      {
+        "Q": "Strontium Hydrogen Titanium (Something I'm Wearing)",
+        "A": "SHirT"
+      }
+    ]
+  },
+  {
+    "title": "Who's Your Daddy, Weird Named Kid?",
+    "category": "celebrities",
+    "written": "2010-05-26",
+    "tags": "celebrities, pop culture, children",
+    "questions": [
+      {
+        "Q": "This writer of “Who Are The Brain Police?” had four children. Dweezil and Ahmet have been on TV occasionally, notsomuch for Moon Unit and Diva Muffin",
+        "A": "Frank Zappa"
+      },
+      {
+        "Q": "This man, who once played a character stung to death by a swarm of bees, has a son named Jal-El (Superman's given name)",
+        "A": "Nicholas Cage"
+      },
+      {
+        "Q": "This Libertarian magician and guy who yells for a living has two children: Zolten and Moxie Crimefighter.",
+        "A": "Penn Jilette"
+      },
+      {
+        "Q": "Leader of the Boomtown Rats and Irishman who swore on live television. Father of Pixie, Fifi Trixiebelle, and Peaches Honeyblossom.",
+        "A": "Bob Geldof"
+      },
+      {
+        "Q": "This person was once exposed lip-syncing one of her really terrible songs. She has a son named Bronx Mowgli.",
+        "A": "Ashlee Simpson"
+      },
+      {
+        "Q": "This man was a director, but now is mostly famous for having really good Knicks tickets. He has a son named Satchel.",
+        "A": "Spike Lee"
+      },
+      {
+        "Q": "This skater turned actor has a child named Pilot Inspektor.",
+        "A": "Jason Lee"
+      },
+      {
+        "Q": "R&B singer on the Waiting to Exhale soundtrack with six Grammies and two children: Diezel and Denim.",
+        "A": "Toni Braxton"
+      },
+      {
+        "Q": "Member of a famous musical family, he's recorded a number of albums but is mostly famous for having a child named Jermajesty.",
+        "A": "Jermaine Jackson"
+      }
+    ]
+  },
+  {
+    "title": "About or Aboot?",
+    "description": "I'm going to name a person. You tell me, based on whether they are American or Canadian, how they pronounce the word “about”",
+    "category": "binary",
+    "written": "2010-05-26",
+    "tags": "celebrities, binary, could be image",
+    "questions": [
+      {
+        "Q": "Nickelback",
+        "A": "ABOOT (Richmond Hill, Ontario)"
+      },
+      {
+        "Q": "Peaches",
+        "A": "ABOOT (Toronto, Ontario)"
+      },
+      {
+        "Q": "Dmitri Martin",
+        "A": "ABOUT (New York, New York)"
+      },
+      {
+        "Q": "Glenn Beck",
+        "A": "ABOUT (Everett, Washington)"
+      },
+      {
+        "Q": "Maya Rudolph",
+        "A": "ABOUT (Gainesville, Florida)"
+      },
+      {
+        "Q": "Peter Jennings",
+        "A": "ABOOT (Toronto, Ontario)"
+      },
+      {
+        "Q": "Undertaker",
+        "A": "ABOUT (Houston, Texas)"
+      },
+      {
+        "Q": "Trish Stratus",
+        "A": "ABOOT (Richmond Hill, Ontario)"
+      },
+      {
+        "Q": "Steven Cojocaru",
+        "A": "ABOOT (Montreal, Quebec)"
+      }
+    ]
+  },
+  {
+    "title": "Actual Movie Taglines",
+    "description": "These were the actual headlines for movies. Somebody was paid to write these.",
+    "category": "movies",
+    "written": "2010-06-16",
+    "tags": "movies, taglines",
+    "questions": [
+      {
+        "Q": "1987: Vietname Can Kill Me, But It Can't Make Me Care",
+        "A": "Full Metal Jacket"
+      },
+      {
+        "Q": "2000: No Mercy. No Shame. No Sequel",
+        "A": "Scary Movie"
+      },
+      {
+        "Q": "2004: Twelve Is The New Eleven",
+        "A": "Ocean's Twelve"
+      },
+      {
+        "Q": "1993: He's Having The Day Of His Life... Over And Over Again",
+        "A": "ABOUT (Gainesville, Florida)"
+      },
+      {
+        "Q": "1998: A Tale Of Murder, Lust, Greed, Revenge And Seafood",
+        "A": "A Fish Called Wanda"
+      },
+      {
+        "Q": "1967: They're Young. They're In Love. And They Kill People.",
+        "A": "Bonnie And Clyde"
+      },
+      {
+        "Q": "2009: He Was Dead... But He Got Better",
+        "A": "Crank High Voltage"
+      },
+      {
+        "Q": "1997: It's Like Looking At The Mirror, Only Not",
+        "A": "Face/Off"
+      },
+      {
+        "Q": "1997: He Sits. He Stays. He Shoots. He Scores",
+        "A": "Air Bud"
+      }
+    ]
+  },
+  {
+    "title": "Homophones II",
+    "category": "words",
+    "written": "2010-06-16",
+    "tags": "words, english, homophones",
+    "questions": [
+      {
+        "Q": "To change or reform. Also a piece of church furniture.",
+        "A": "alter/altar"
+      },
+      {
+        "Q": "Meaning the entirety of the group. Also a leather working device.",
+        "A": "all/awl"
+      },
+      {
+        "Q": "A reason to stay at your job. Also what you'll do to the building if they don't meet your demands.",
+        "A": "raise/raze"
+      },
+      {
+        "Q": "What Pearl Jam is to Eddie Vedder. Also what Florida is to 2 Live Crew",
+        "A": "band/banned"
+      },
+      {
+        "Q": "Important promotion in the mafia. Also an outfit they sell at sex shops.",
+        "A": "made/maid"
+      },
+      {
+        "Q": "To perform a hasty retreat. Also a bass player.",
+        "A": "flee/flea"
+      },
+      {
+        "Q": "A small container to hold your liquid in. Also what happened to that bullfighter in May.",
+        "A": "gourd/gored"
+      },
+      {
+        "Q": "A middle eastern shopping center. Also a Lady Gaga outfit.",
+        "A": "bazaar/bizarre"
+      },
+      {
+        "Q": "The boss of a school. Also a thing that unpopular artists usually have a lot of.",
+        "A": "principal/principle"
+      }
+    ]
+  },
+  {
+    "title": "Nine Perverted Women",
+    "description": "I'm about to describe nine different women with paraphelias. You tell me what turns them on.",
+    "category": "words",
+    "written": "2010-06-23",
+    "tags": "words, english, fetishes, paraphelias",
+    "questions": [
+      {
+        "Q": "Brixton has asphyxiophilia. Which means she wants to be prevented from ________.",
+        "A": "breathing"
+      },
+      {
+        "Q": "Tanya has dendrophilia. She gets wet at the sight of ________.",
+        "A": "trees"
+      },
+      {
+        "Q": "Samantha has kleptophilia. She gets turned on when she's _________.",
+        "A": "stealing"
+      },
+      {
+        "Q": "Paula has maiesiophilia. She is especially attracted to women who are ___________.",
+        "A": "pregnant"
+      },
+      {
+        "Q": "Heather has trichophilia. She wants a man with a whole lot of ________.",
+        "A": "hair"
+      },
+      {
+        "Q": "Elizabeth has vorarephilia. This means that she wants to be ________.",
+        "A": "eaten"
+      },
+      {
+        "Q": "Sasha has somnophilia. She wants to have sex with people while they are _________.",
+        "A": "sleeping"
+      },
+      {
+        "Q": "Olivia has gerontophilia. She wants a man who is very ________.",
+        "A": "old"
+      },
+      {
+        "Q": "Sally has olfactophilia. She is turned on by different ________.",
+        "A": "smells"
+      }
+    ]
+  },
+  {
+    "title": "Pop Culture Questions You Shouldn't Know The Answer To",
+    "description": "I'm going to ask nine pop culture questions. The more questions you can answer, the more shame you should feel.",
+    "category": "pop culture",
+    "written": "2010-06-23",
+    "tags": "pop culture, general, shame",
+    "questions": [
+      {
+        "Q": "In the Twilight books, what is the first and last name of the female protagonist?",
+        "A": "Bella Swan"
+      },
+      {
+        "Q": "In Beverly Hills 90210, the Walsh family moves to Beverly Hills from what Minnesota city?",
+        "A": "Wayzata"
+      },
+      {
+        "Q": "In Magic: The Gathering, what type of land has to be tapped in order to gain 1 black mana?",
+        "A": "swamp"
+      },
+      {
+        "Q": "In Dungeons and Dragons, in order to play as a Paladin, your character must be of what alignment?",
+        "A": "lawful good"
+      },
+      {
+        "Q": "According to World Wrestling Entertainment storylines, who is the brother of The Undertaker?",
+        "A": "Kane"
+      },
+      {
+        "Q": "In Two And A Half Men, the Jon Cryer character confesses to two different fetishes. Name either of them.",
+        "A": "pregnancy and feet"
+      },
+      {
+        "Q": "In the 2009 season of American Idol, who beat Adam Lambert to become the final winner?",
+        "A": "Kris Allen"
+      },
+      {
+        "Q": "Which game in the Mega Man series featured Snake Man as an enemy boss?",
+        "A": "Mega Man 3"
+      },
+      {
+        "Q": "Name anyone from the Black Eyed Peas other than Fergie or Will I Am",
+        "A": "Taboo or Apl.De.Ap"
+      }
+    ]
+  },
+  {
+    "title": "Television Email Addresses",
+    "description": "If you send an email to any of these addresses, who would you expect to reach?",
+    "category": "tv",
+    "written": "2010-06-02",
+    "tags": "tv, pop culture, email",
+    "questions": [
+      {
+        "Q": "sector7g@springfieldnuclear.com",
+        "A": "Homer Simpson"
+      },
+      {
+        "Q": "nevernude@bluthhomes.com",
+        "A": "Tobias Funke"
+      },
+      {
+        "Q": "mrs_astronaut_mike_dexter@nbc.com",
+        "A": "Liz Lemon"
+      },
+      {
+        "Q": "vicodin@princeton.plainsboro.edu",
+        "A": "Dr. Gregory House"
+      },
+      {
+        "Q": "killerkiller@mdpd.fl.gov",
+        "A": "Dexter Morgan"
+      },
+      {
+        "Q": "elementary@221baker.uk.gov",
+        "A": "Sherlock Homes"
+      },
+      {
+        "Q": "yippiekiyay@nypd.gov",
+        "A": "John McClane"
+      },
+      {
+        "Q": "dollhousefurniture@bpd.md.gov",
+        "A": "Lester Freamon"
+      },
+      {
+        "Q": "capn_cook@polloshermanos.com",
+        "A": "Jesse Pinkman"
+      }
+    ]
+  },
+  {
+    "title": "Let's Have A Simpsons Round",
+    "category": "tv",
+    "written": "2010-06-30",
+    "tags": "tv, simpsons",
+    "questions": [
+      {
+        "Q": "Which US President did Homer Simpson punch in the face?",
+        "A": "George H. W. Bush"
+      },
+      {
+        "Q": "This name of Homer’s Barbership Quartet gets less funny every time you hear it.",
+        "A": "The Be Sharps"
+      },
+      {
+        "Q": "When Mr. Burns goes to Scotland, what does he bring back home with him?",
+        "A": "The Loch Ness Monster"
+      },
+      {
+        "Q": "What is Jasper’s punishment for talkin’ outta turn, lookin’ out the window, or staring at his sandles?",
+        "A": "a paddlin’"
+      },
+      {
+        "Q": "An accident with a t-shirt cannon turned what character into a window?",
+        "A": "Ned Flanders"
+      },
+      {
+        "Q": "This German phrase tattooed on Sideshow Bob’s chest became evidence in his trial.",
+        "A": "Die Bart, Die"
+      },
+      {
+        "Q": "Which of these is not a Krusty The Klown record: Kroon Along With Krusty, Matzah Been A Dream, or Krustophenia.",
+        "A": "Matzah Been A Dream"
+      },
+      {
+        "Q": "Where did Homer first get Marge pregnant?",
+        "A": "the windmill in a mini golf course"
+      },
+      {
+        "Q": "Homer Simpson is also the name of an overweight, bumbling detective on what cleverly titled police show?",
+        "A": "Police Cops"
+      }
+    ]
+  },
+  {
+    "title": "Pop Culture Questions You Shouldn't Know The Answer To Two",
+    "description": "I'm going to ask nine pop culture questions. The more questions you can answer, the more shame you should feel.",
+    "category": "pop culture",
+    "written": "2010-07-07",
+    "tags": "pop culture, general, shame",
+    "questions": [
+      {
+        "Q": "What are the first names of the twin sisters who are the main characters in the Sweet Valley High series?",
+        "A": "Jessica and Elizabeth"
+      },
+      {
+        "Q": "This year, America’s Got Talent got a new judge to replace David Hasselhoff. Who was it?",
+        "A": "Howie Mandel"
+      },
+      {
+        "Q": "In World of Warcraft, what faction do the Orcs and Blood Elves belong to?",
+        "A": "The Horde"
+      },
+      {
+        "Q": "Justin Bieber did a song this year featuring Ludacris. What is it called?",
+        "A": "Baby"
+      },
+      {
+        "Q": "In the Hannah Montana show, who plays Hanna Montana’s father?",
+        "A": "Billy Ray Cyrus"
+      },
+      {
+        "Q": "In Transformers 2, what historical buildings get destroyed during the final battles of the film?",
+        "A": "the pyramids"
+      },
+      {
+        "Q": "In the TV show Shaq Vs, Shaquille O’Neal challenges athletes in their own sport. How many challenges has Shaq won?",
+        "A": "0"
+      },
+      {
+        "Q": "These days, America’s Funniest Home Videos is referred to on-air by its abbreviation. What abbreviation do they use?",
+        "A": "AFV"
+      },
+      {
+        "Q": "In The Sims games, which game can you have your Sim practice in order to gain a logic point?",
+        "A": "chess"
+      }
+    ]
+  },
+  {
+    "title": "Ad Execs With Tourettes",
+    "description": "These advertising slogans were written by people with a sudden bout of tourettes. What product were they trying to sell?",
+    "category": "pop culture",
+    "written": "2010-07-07",
+    "tags": "ad, advertising",
+    "questions": [
+      {
+        "Q": "Made from the best shit on Earth!",
+        "A": "Snapple"
+      },
+      {
+        "Q": "Taste the mangravy.",
+        "A": "Skittles"
+      },
+      {
+        "Q": "Let your dick do the walking.",
+        "A": "Yellow Pages"
+      },
+      {
+        "Q": "Reach out and fuck someone.",
+        "A": "AT&T"
+      },
+      {
+        "Q": "Australian for balls.",
+        "A": "Fosters"
+      },
+      {
+        "Q": "The breakfast of assholes.",
+        "A": "Wheaties"
+      },
+      {
+        "Q": "You deserve a handjob today",
+        "A": "McDonald’s"
+      },
+      {
+        "Q": "When you’re here, you’re shit.",
+        "A": "Olive Garden"
+      },
+      {
+        "Q": "Strong enough for a man, but made for a bitch.",
+        "A": "Secret"
+      }
+    ]
+  },
+  {
+    "title": "Homophones III",
+    "category": "words",
+    "written": "2010-07-28",
+    "tags": "words, english, homophones",
+    "questions": [
+      {
+        "Q": "What's the name for a 9 millimeter handgun that fires out goodwill and love",
+        "A": "peace piece"
+      },
+      {
+        "Q": "This is an online instructional curriculum that teaches about the different types of sandpaper.",
+        "A": "coarse course"
+      },
+      {
+        "Q": "The wall in a river that can send you to hell.",
+        "A": "damn dam"
+      },
+      {
+        "Q": "A fish eating woodland animal who doesn’t like to wear clothes",
+        "A": "bare bear"
+      },
+      {
+        "Q": "A collection of pens, pencils, and paper that must not be moved",
+        "A": "stationary stationery"
+      },
+      {
+        "Q": "A large hotel room made entirely out of grape flavored Jolly Ranchers",
+        "A": "sweet suite"
+      },
+      {
+        "Q": "A breakfast event where, at 8:00 AM, you remember everyone you knew who died.",
+        "A": "mourning morning"
+      },
+      {
+        "Q": "A convention of butchers",
+        "A": "meat meet"
+      },
+      {
+        "Q": "A new reality show where Kelly Clarkson just sits around and does nothing at all.",
+        "A": "Idle Idol"
+      },
+      {
+        "Q": "A game show that has you deciding between a canoe paddle and unrefined metal",
+        "A": "Oar Or Ore?"
+      }
+    ]
+  },
+  {
+    "title": "Snopes Says Your A Liar",
+    "description": "Does Snopes think this claim is true or false?",
+    "category": "binary",
+    "written": "2010-05-12",
+    "tags": "binary, true or false, dis or dat",
+    "questions": [
+      {
+        "Q": "The Happy Days spinoff called “Joanie Loves Chaci” was a huge hit in Korea, largely because in Korean, “chaci” means “cock”",
+        "A": "false"
+      },
+      {
+        "Q": "The Chevy Nova sold poorly in Spanish speaking countries, mainly because in Spanish, “Nova” means “doesn’t go”",
+        "A": "false"
+      },
+      {
+        "Q": "Carmine, a red food coloring agent found in foods such as strawberry ice cream and imitation crab meat, is made of ground dead bugs.",
+        "A": "true"
+      },
+      {
+        "Q": "Green potatoes (and green potato chips) are poisonous.",
+        "A": "true"
+      },
+      {
+        "Q": "Walt Disney had himself cryogenically frozen at a facility in Northern California.",
+        "A": "false"
+      },
+      {
+        "Q": "By proclamation of Governor George W. Bush, June 10th, 2000 was “Jesus Day” in Texas",
+        "A": "true"
+      },
+      {
+        "Q": "A wealthy Toronto lawyer bequeathed his estate to whichever woman gave birth to the most children in a ten year span following his death.",
+        "A": "true"
+      },
+      {
+        "Q": "A person’s fingernails and hair continue to grow after death.",
+        "A": "false"
+      },
+      {
+        "Q": "Several patients have died in hospitals because their Lance Armstrong “Live Strong” bracelets were confused with “Do Not Resuscitate” bracelets.",
+        "A": "false"
+      }
+    ]
+  },
+  {
+    "title": "Ad Execs With Tourettes II",
+    "description": "These advertising slogans were written by people with a sudden bout of tourettes. What product were they trying to sell?",
+    "category": "pop culture",
+    "written": "2010-07-28",
+    "tags": "ad, advertising, wordplay, english",
+    "questions": [
+      {
+        "Q": "We fuck harder.",
+        "A": "Avis"
+      },
+      {
+        "Q": "The ultimate fucking machine",
+        "A": "BMW"
+      },
+      {
+        "Q": "A little fuck’ll do ya.",
+        "A": "Brylcreem"
+      },
+      {
+        "Q": "Reach out and fuck someone.",
+        "A": "AT&T"
+      },
+      {
+        "Q": "Australian for balls.",
+        "A": "Fosters"
+      },
+      {
+        "Q": "The breakfast of assholes.",
+        "A": "Wheaties"
+      },
+      {
+        "Q": "You deserve a handjob today",
+        "A": "McDonald’s"
+      },
+      {
+        "Q": "When you’re here, you’re shit.",
+        "A": "Olive Garden"
+      },
+      {
+        "Q": "Strong enough for a man, but made for a bitch.",
+        "A": "Secret"
+      }
+    ]
+  },
 ];
