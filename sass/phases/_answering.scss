@@ -1,0 +1,10 @@
+.answering { padding:2em;
+  .round-title { color:$white; text-transform: uppercase; text-align: center; font-weight:$light; font-size:3vw; }
+  .number { font-size:130vh; position: fixed; top:0; right: 0; line-height: 72%; z-index: 0; opacity: 0.2; font-weight:900; }
+  .big-question { font-size:6vw; color:$white; text-align: center; position: relative; padding-top:0.75em; font-weight:400;
+    &[length="very-long"] { font-size:4vw; }
+    &[length="short"] { font-size:8vw; }
+  }
+  .big-answer { font-size:6vw; color:#eac428; text-align: center; position: relative; padding-top:0.75em; font-weight:400; font-weight:$bold; }
+}
+

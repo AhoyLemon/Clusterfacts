@@ -1,9 +1,27 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Clusterfacts</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css">
+    <link href="/css/clusterfacts.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <script src="js/min/clusterfacts.min.js"></script>
+    <section class="asking"><span class="question-number number">1</span>
+      <h1 class="round-title"></h1>
+      <h2 id="BigQuestion" class="big-question"></h2>
+    </section>
+    <section class="summary">
+      <h1 class="round-title"></h1>
+      <ol class="question-list"></ol>
+    </section>
+    <section class="answering"><span class="question-number number">1</span>
+      <h1 class="round-title"></h1>
+      <h2 class="big-question"></h2>
+      <h3 class="big-answer"></h3>
+    </section>
+    <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+    <script src="js/min/clusterfacts.min.js" charset="utf-8"></script>
   </body>
 </html>

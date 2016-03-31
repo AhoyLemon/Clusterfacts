@@ -1,0 +1,8 @@
+section.summary { padding:2em; counter-reset:question;
+  .round-title { color:$white; text-transform: uppercase; text-align: center; font-weight:$light; font-size:3vw; }
+  .question-list {
+    li { font-size:2vw; color:$white; margin-bottom: 0.35em;
+      &:before { counter-increment:question; content: counter(question); padding-right: 0.5em;font-size:1.25em; font-weight:$bold; }
+    }
+  }
+}
