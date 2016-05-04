@@ -32,24 +32,28 @@ if (round.written) {
 $('.round-title').text(round.title);
 
 
-if (current.phase == "asking") {
-  $('section.asking').show();
-  $('section.asking').siblings('section').hide();
-  populateQuestion();
-} else if (current.phase == "summary") {
-  $('section.summary').show();
-  $('section.summary').siblings('section').hide();
-  $.each( round.questions, function( key, value ) {
-    $('.question-list').append('<li class="question">'+value.Q+'</li>');
-    //$('.question-list').append('<dd class="answer">'+value.A+'</dd>');
-    console.log(value.Q);
-  });
-} else if (current.phase == "answering") {
-  $('section.answering').show();
-  $('section.answering').siblings('section').hide();
-  populateQuestion();
+
+function switchPhase() {
+  if (current.phase == "asking") {
+    $('section.asking').show();
+    $('section.asking').siblings('section').hide();
+    populateQuestion();
+  } else if (current.phase == "summary") {
+    $('section.summary').show();
+    $('section.summary').siblings('section').hide();
+    $.each( round.questions, function( key, value ) {
+      $('.question-list').append('<li class="question">'+value.Q+'</li>');
+      //$('.question-list').append('<dd class="answer">'+value.A+'</dd>');
+      console.log(value.Q);
+    });
+  } else if (current.phase == "answering") {
+    $('section.answering').show();
+    $('section.answering').siblings('section').hide();
+    populateQuestion();
+  }
 }
 
+switchPhase();
 
 
 

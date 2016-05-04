@@ -25,19 +25,28 @@ $('body').keyup(function(e) {
   if (current.phase == "asking") {
     if (e.keyCode == 39) {
       current.num++;
-      
     } else if (e.keyCode == 37) {
       current.num--;
-      
     }
     if (current.num > 8) {
-      current.num = 8; 
+      current.num = 9; 
+      current.phase = "summary";
+      switchPhase();
     } else if (current.num < 0) { 
       current.num = 0;
     }
     console.log(current.num);
     $('.question-number').text(current.num + 1);
     $('#BigQuestion').text(round.questions[current.num].Q);
+  } else if (current.phase == "summary") {
+    if (e.keyCode == 39) {
+      current.phase = "answering";
+      current.num = 0;
+      switchPhase();
+    } else if (e.keyCode == 37) {
+      current.phase = "asking";
+      switchPhase();
+    }
   } else if (current.phase == "answering") {
     if (e.keyCode == 39) {
       if (current.showing == "question") {
