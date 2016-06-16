@@ -54,15 +54,3 @@ function switchPhase() {
 }
 
 switchPhase();
-
-
-
-
-/**
-$('#Questions').empty();
-$.each( round.questions, function( key, value ) {
-  $('#Questions').append('<dt class="question">'+value.Q+'</dt>');
-  $('#Questions').append('<dd class="answer">'+value.A+'</dd>');
-  console.log(value.Q);
-});
-**/
